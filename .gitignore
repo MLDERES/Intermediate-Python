@@ -1,3 +1,10 @@
+# files in the output directory
+output/*.csv
+output/*.xml
+output/*.json
+output/*.xlsx
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
